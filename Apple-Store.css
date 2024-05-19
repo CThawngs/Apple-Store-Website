@@ -1,0 +1,661 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+p#mota_banner_mac_air {
+    color: black;
+}
+
+h3#ten_banner_mac_air {
+    color: black;
+}
+
+i.fa-solid.fa-circle-user {
+    padding: 0.6%;
+    margin-right: 0.5%;
+}
+
+i.fa-solid.fa-ticket-simple {
+    padding: 0.6%;
+    margin-right: 0.5%;
+}
+
+i.fa-regular.fa-bookmark {
+    padding: 0.6%;
+    margin-right: 0.5%;
+}
+
+i.fa-solid.fa-box {
+    padding: 0.6%;
+    margin-right: 0.5%;
+}
+
+li#title_shopping {
+    margin-left: 10%;
+    margin-bottom: 0.5%;
+    margin-top: 3%;
+}
+
+p.text_shopping {
+    margin-left: 10%;
+    margin-top: 3%;
+    color: darkgray;
+}
+
+h3.thong_bao {
+    font-size: 170%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+li.cap_2_shopping {
+    color: #d1d1d1;
+    font-size: 90%;
+    font-weight: bold;
+    line-height: 200%;
+    cursor: pointer;
+    margin-left: 10%;
+    display: flex;
+}
+
+li.cap_2_shopping:hover {
+    background-color: #252525;
+    color: white;
+}
+
+ul#menu_shopping {
+    display: block;
+    padding-bottom: 5%;
+}
+
+li.cap_1_icon {
+    width: auto;
+    height: auto;
+    font-size: 90%;
+    transition: 0.5s linear;
+    padding: 0.75%;
+    margin-left: 1%;
+    margin-right: 1%;
+    color: #d1d1d1;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+i.fa-solid.fa-arrow-right {
+    padding: 0.6%;
+    color: #ababab;
+    margin-right: 0.5%;
+}
+
+i#icon_search {
+    padding: 1%;
+    font-size: 125%;
+    color: gray;
+}
+
+.khung_search {
+    display: flex;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 80%;
+}
+
+li#title_search {
+    margin-bottom: 0.5%;
+    font-size: 85%;
+    margin-left: 10%;
+}
+
+ul#menu_search {
+    display: block;
+    padding-bottom: 5%;
+}
+
+input.search {
+    width: 100%;
+    color: gray;
+    background-color: #181818;
+    border: none;
+    font-size: 170%;
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+
+li.cap_2_search {
+    color: #d1d1d1;
+    font-size: 90%;
+    font-weight: bold;
+    line-height: 200%;
+    cursor: pointer;
+    margin-left: 10%;
+    display: flex;
+}
+
+li.cap_2_search:hover {
+    background-color: #252525;
+    color: white;
+}
+
+img.chung_nhan {
+    width: 14%;
+    cursor: pointer;
+}
+
+p#country {
+    margin-left: auto;
+}
+
+p#company {margin-left: 67%;}
+
+li#fix {
+    border-left: none;
+    padding: 0%;
+}
+
+li.in4 {
+    border-left: 1px solid gray;
+    color: #424242;
+    font-size: 85%;
+    margin-right: 1%;
+    padding-left: 1%;
+    cursor: pointer;
+}
+
+li.in4:hover {
+    text-decoration-line: underline;
+}
+
+ul.menu_in4_website {
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: left;
+    align-items: center;
+    flex-wrap: nowrap;
+    list-style: none;
+}
+
+.chia_text {
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.bottom {
+    width: 100%;
+    height: auto;
+    padding-top: 1%;
+    display: block;
+    border-top: 0.1px solid gray;
+}
+
+.line {
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-bottom: 2%;
+}
+
+p.text_footer {
+    font-size: 85%;
+    color: gray;
+}
+
+div#cot_5 {
+    width: 17%;
+    margin-right: 2%;
+}
+
+div#cot_4 {
+    width: 18.1%;
+}
+
+ul.menu {
+    display: block;
+    width: auto;
+    height: auto;
+    text-align: left;
+    list-style: none;
+    margin-bottom: 5%;
+}
+
+li.tieu_de_menu {
+    font-size: 85%;
+    font-weight: bold;
+    line-height: 180%;
+}
+
+li.cap_1_footer {
+    width: auto;
+    height: auto;
+    font-size: 85%;
+    transition: 0.75s ease;
+    cursor: pointer;
+    color: grey;
+    line-height: 180%;
+}
+
+li.cap_1_footer:hover {
+    color: black;
+}
+
+.cot {width: auto;height: auto;display: block;margin-right: 5%;}
+
+.mid {
+    width: 100%;
+    height: auto;
+    margin-top: 1%;
+    display: block;
+    padding-bottom: 2%;
+}
+
+.top {
+    width: 100%;
+    height: auto;
+    border-bottom: 0.1px solid gray;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.footer {
+    width: 85%;
+    height: auto;
+    margin: auto;
+}
+
+.khung_footer {
+    width: 100%;
+    height: auto;
+    background-color: #f5f5f7;
+}
+
+p#mota_banner_macbook_pro {
+    color: black;
+}
+
+h3#ten_banner_macbook_pro {
+    color: black;
+}
+
+p#ten_banner_watch_ultra_2 {
+    text-transform: uppercase;
+    margin-top: 1%;
+    color: orange;
+}
+
+div#khung_text_banner_watch_ultra_2 {
+    top: 15%;
+}
+
+p#text_banner_watch_ultra_2 {
+    color: black;
+}
+
+p#ten_banner_watch_9 {
+    color: red;
+    text-transform: uppercase;
+    margin-top: 1%;
+}
+
+div#khung_text_banner_watch_9 {
+    top: 15%;
+}
+
+p#mota_banner_iphone_15 {
+    color: black;
+}
+
+h3#ten_banner_iphone_15 {
+    color: black;
+}
+
+.khung_button_banner {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 3%;
+}
+
+p.mota_banner {
+    color: white;
+    font-size: 120%;
+    font-weight: normal;
+}
+
+h3.ten_banner {
+    color: white;
+    font-size: 250%;
+}
+
+.khung_text_banner {
+    width: 70%;
+    height: auto;
+    position: absolute;
+    top: 8%;
+    left: 15%;
+    text-align: center;
+}
+
+img.banner {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    cursor: pointer;
+    opacity: 0;
+    transform: translateX(100%);
+    transition: transform 0.5s ease-out, opacity 0.5s ease-out;
+}
+
+@keyframes slide-up-to-down {
+	0% {
+		transform: translateY(-100%);
+		opacity: 0;
+	}
+	50% {
+		transform: translateY(0);
+		opacity: 1;
+	}
+	100% {
+		transform: translateY(-100%);
+		opacity: 0;
+	}
+}
+
+.khung_banner {
+    width: 49%;
+    height: auto;
+    margin: auto;
+    position: relative;
+}
+
+.lines {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-bottom: 1%;
+    display: flex;
+}
+
+button#nut_phai_ipad_air {
+    border-color: black;
+    color: black;
+}
+
+button#nut_phai_ipad_air:hover {
+    color: white;
+    background-color: black;
+}
+
+button#nut_trai_ipad_air {
+    background-color: black;
+}
+
+button#nut_trai_ipad_air:hover {
+    background-color: #393939;
+}
+
+div#ipad_banner {
+    top: 20%;
+}
+
+div#text_big_banner {
+    top: 60%;
+}
+
+.khung_giua {
+    width: 100%;
+    height: auto;
+}
+
+p.p-mo_ta_big_banner {
+    color: gray;
+    margin-top: 1.5%;
+    font-size: 130%;
+    margin-bottom: -1%;
+}
+
+button.nut_phai {
+    margin-left: 1%;
+    padding: 1.5% 2.5%;
+    width: auto;
+    border-radius: 25px;
+    background-color: transparent;
+    border: 1px solid #0071e3;
+    color: #0071e3;
+    font-size: 115%;
+    cursor: pointer;
+}
+
+button.nut_phai:hover {
+    background-color: #0071e3;
+    color: white;
+}
+
+button.nut_trai {
+    margin-right: 1%;
+    padding: 1.5% 2.5%;
+    border-radius: 25px;
+    background-color: #0071e3;
+    border: transparent;
+    color: white;
+    font-size: 110%;
+    text-align: center;
+    cursor: pointer;
+}
+
+button.nut_trai:hover {
+    background-color: #037cf6;
+}
+
+.khung_button_big_banner {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 3%;
+}
+
+h3.mo_ta_big_banner {
+    color: white;
+    font-size: 180%;
+    font-weight: normal;
+}
+
+h1.ten_big_banner {
+    color: white;
+    font-size: 320%;
+}
+
+img.big_banner {
+    position: relative;
+    width: 100%;
+    cursor: pointer;
+}
+
+.khung_text_big_banner {
+    width: 50%;
+    height: auto;
+    position: absolute;
+    top: 8%;
+    left: 25%;
+    text-align: center;
+}
+
+.khung_big_banner {
+    width: 100%;
+    height: auto;
+    position: relative;
+    box-sizing: border-box;
+    margin-bottom: 0.5%;
+}
+
+span.span_text_uu_dai {
+    color: #3c6dff;
+    cursor: pointer;
+}
+
+span.span_text_uu_dai:hover {text-decoration-line: underline;}
+
+p.text_uu_dai {
+    color: white;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    font-size: 90%;
+}
+
+.khung_uu_dai {
+    width: 100%;
+    height: auto;
+    background-color: #29292c;
+    padding-top: 3%;
+    text-align: center;
+}
+
+li.small_title\(1\) {color: #d1d1d1;font-size: 85%;font-weight: bold;line-height: 190%;cursor: pointer;}
+
+li.small_title\(1\):hover {color: white;}
+
+.khung_small_title\(1\) {
+    width: auto;
+    height: auto;
+    margin-top: 5%;
+}
+
+li.cap_2\(3\) {
+    color: #d1d1d1;
+    font-size: 85%;
+    font-weight: bold;
+    line-height: 190%;
+    cursor: pointer;
+}
+
+li.cap_2\(3\):hover {
+    color: white;
+}
+
+.khung_menu_cap_2\(3\) {
+    width: auto;
+    height: auto;
+    margin-bottom: 5%;
+    margin-top: 4%;
+    margin-left: 3%;
+}
+
+li.cap_2\(2\) {
+    color: #d1d1d1;
+    font-size: 85%;
+    font-weight: bold;
+    line-height: 190%;
+    cursor: pointer;
+}
+
+li.cap_2\(2\):hover {
+    color: white;
+}
+
+.khung_menu_cap_2\(2\) {
+    width: auto;
+    height: auto;
+    margin-bottom: 5%;
+    margin-top: 4%;
+    margin-left: 6%;
+}
+
+li.cap_2\(1\) {
+    color: #d1d1d1;
+    font-size: 150%;
+    font-weight: bold;
+    line-height: 160%;
+    cursor: pointer;
+}
+
+li.cap_2\(1\):hover {
+    color: white;
+}
+
+li.cap_2_title {
+    font-size: 85%;
+    color: darkgray;
+    margin-bottom: 6%;
+}
+
+.khung_menu_cap_2\(1\) {
+    width: auto;
+    height: auto;
+    margin-left: 11%;
+    margin-bottom: 5%;
+    margin-top: 4%;
+}
+
+.hienra {
+    visibility: visible;
+    top: 100%;
+}
+
+ul.menu_cap_2 {
+    position: absolute;
+    list-style: none;
+    left: 0%;
+    top: 100%;
+    height: auto;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 11;
+    background-color: #181818;
+    cursor: default;
+    visibility: hidden;
+    display: flex;
+    transition: 0.5s linear;
+}
+
+li.cap_1 {
+    width: auto;
+    height: auto;
+    font-size: 90%;
+    transition: 0.25s linear;
+    padding: 0.75%;
+    margin-left: 1%;
+    margin-right: 1%;
+    color: #d1d1d1;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+li.cap_1:hover {
+    color: white;
+}
+
+li.cap_1:hover ul.menu_cap_2 {
+    visibility: visible;
+    top: 100%;
+} 
+
+ul.menu_cap_1 {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    list-style: none;
+    z-index: 10;
+}
+
+.thanh_menu {
+    width: 100%;
+    height: auto;
+    background: #181818e8;
+    position: fixed;
+    z-index: 9;
+}
+
+.khung_tren {
+    width: 100%;
+    height: auto;
+}
