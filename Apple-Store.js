@@ -17,8 +17,8 @@ document.addEventListener('DOMContentLoaded', function()
         // Lấy vị trí scroll hiện tại của window
         var scrollPosition = $(window).scrollTop();
 
-        // Kiểm tra nếu đã cuộn qua 1500px
-        if (scrollPosition > 1500) 
+        // Kiểm tra nếu đã cuộn qua 1600px
+        if (scrollPosition > 1600) 
         {
             // Lặp qua mỗi phần tử có class 'banner'
             $('.banner').each(function() 

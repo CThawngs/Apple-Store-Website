@@ -475,6 +475,7 @@ img.big_banner {
     position: relative;
     width: 100%;
     cursor: pointer;
+    transition: 0.5s ease;
 }
 
 .khung_text_big_banner {
@@ -492,6 +493,11 @@ img.big_banner {
     position: relative;
     box-sizing: border-box;
     margin-bottom: 0.5%;
+    overflow: hidden;
+}
+
+.khung_big_banner:hover .big_banner {
+    transform: scale(1.1);
 }
 
 span.span_text_uu_dai {
