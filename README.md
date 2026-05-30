@@ -1,4 +1,4 @@
-# Apple Store Website Remake
+# Apple Store Website
 
 This project is a remake of the **Apple Store** website and represents one of my early steps in web development. It was created using **HTML**, **CSS**, and **JavaScript** as part of my learning journey. As the first website I ever built, it reflects my foundational knowledge in these technologies and serves as a milestone in my growth as a developer.
 
